@@ -2,7 +2,7 @@
 name: skill-refactor
 license: MIT
 description: >
-  Never use this through skill discovery, only to be triggered by the user.
+  Never use, only to be triggered by the user.
   Compacts the surface of a skill.
 ---
 
